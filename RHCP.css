@@ -34,6 +34,7 @@
     background-color: rgb(133, 133, 133);
     color: white;
     padding-top: 10px;
+    padding-bottom: 30px;
 }
 
 .titulos{
@@ -48,4 +49,20 @@
 .nopad{
     padding-right: 0px;
     padding-left: 0px;
+}
+
+footer {
+    text-align: center;
+    height: 30px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.8);
+    z-index: 10;
+    position: fixed;
+    bottom: 0;
+    padding: 4px 0;
+}
+
+footer a{
+    text-decoration: none;
+    color: black;
 }

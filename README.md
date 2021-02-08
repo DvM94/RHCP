@@ -1,2 +1,2 @@
 # Pagina grupo música
-Página web estática sobre un grupo de música. Primeros pasos en **HTML** y **CSS**. Uso de **Bootstrap**.
+Página web estática sobre un grupo de música. Primeros pasos en **HTML** y **CSS**. Uso de **Bootstrap**.  Incorpora los principios del **Diseño Responsive**.
